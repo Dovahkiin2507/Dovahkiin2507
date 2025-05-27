@@ -22,7 +22,7 @@ Me apasiona encontrar errores, entender cómo funciona una aplicación desde el 
 🔹 [**Pruebas manuales - Urban Scooter**](#)  
 Pruebas completas (web, móvil y API), uso de Google Sheets, documentación de bugs y Postman.
 
-🔹 [**Pruebas automatizadas - Urban Roots**](#)  
+🔹 [**Pruebas automatizadas - Urban Routes**](#)  
 Automatización con Selenium + Python, pruebas end-to-end en un entorno de prueba web.
 
 🔹 [**Consultas SQL y análisis de logs**](#)  
