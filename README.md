@@ -19,7 +19,7 @@ Me apasiona encontrar errores, entender cómo funciona una aplicación desde el 
 
 ## 🚀 Proyectos destacados
 
-🔹 [**Pruebas manuales - Urban Scooter**](#)  
+🔹 [**Pruebas manuales - Urban Scooter**](https://docs.google.com/document/d/1ki7cUkdK0_RdVbrbk97hUVsi4JzkLYddn8_a52LJjrM/edit?usp=sharing)  
 Pruebas completas (web, móvil y API), uso de Google Sheets, documentación de bugs y Postman.
 
 🔹 [**Pruebas automatizadas - Urban Routes**](#)  
