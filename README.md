@@ -22,7 +22,7 @@ Me apasiona encontrar errores, entender cómo funciona una aplicación desde el 
 🔹 [**Pruebas manuales - Urban Scooter**](https://docs.google.com/document/d/1ki7cUkdK0_RdVbrbk97hUVsi4JzkLYddn8_a52LJjrM/edit?usp=sharing)  
 Pruebas completas (web, móvil y API), uso de Google Sheets, documentación de bugs y Postman.
 
-🔹 [**Pruebas automatizadas - Urban Routes**](#)  
+🔹 [**Pruebas automatizadas - Urban Routes**](http://github.com/Dovahkiin2507/qa-project-Urban-Routes-es)  
 Automatización con Selenium + Python, pruebas end-to-end en un entorno de prueba web.
 
 🔹 [**Consultas SQL y análisis de logs**](#)  
