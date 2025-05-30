@@ -25,7 +25,7 @@ Pruebas completas (web, móvil y API), uso de Google Sheets, documentación de b
 🔹 [**Pruebas automatizadas - Urban Routes**](http://github.com/Dovahkiin2507/qa-project-Urban-Routes-es)  
 Automatización con Selenium + Python, pruebas end-to-end en un entorno de prueba web.
 
-🔹 [**Consultas SQL y análisis de logs**](#)  
+🔹 [**Consultas SQL y análisis de logs**](https://github.com/Dovahkiin2507/proyecto-bases-de-datos-taxis)  
 Proyecto sobre análisis de logs de sistema y consultas SQL a una base de datos de taxis.
 
 *(Puedes ver más en mis repositorios destacados)*
@@ -40,7 +40,7 @@ Actualmente trabajo como **encargado de local**, cargo al que llegué tras comen
 
 ## 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/luismedinaengineer)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luismedinatester/)
 - ✉️ luisarturomedina84@gmail.com
 
 ---
