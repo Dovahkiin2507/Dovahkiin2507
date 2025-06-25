@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luis Medina
 
-🎯 **QA Manual | Tester Junior | En transición al área tecnológica**
+🎯 **QA Engineer | Tester Junior | En transición al área tecnológica**
 
 Soy un profesional con experiencia laboral en liderazgo operativo y actualmente me estoy formando como QA Engineer, con foco en pruebas manuales y conocimientos en automatización.
 
